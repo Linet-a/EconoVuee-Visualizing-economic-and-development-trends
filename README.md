@@ -35,6 +35,7 @@ Life Expectancy
 Population
 
 🙌 Acknowledgements
+
 Gapminder.org for the dataset
 
 Plotly & Dash for the web framework
