@@ -22,7 +22,8 @@ Pandas
 Gunicorn (for production deployment)
 
 📸 Screenshots
-Add images of your dashboard output here
+
+![App Screenshot](images/img1.png)
 
 📈 Dataset
 This dashboard uses the Gapminder dataset, which includes:
