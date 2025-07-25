@@ -12,6 +12,7 @@ Interactive bar charts and a choropleth map.
 Clean, responsive UI styled with Bootstrap.
 
 📦 Dependencies
+
 Dash
 
 Plotly
