@@ -25,6 +25,10 @@ Gunicorn (for production deployment)
 
 ![App Screenshot](images/img1.png)
 
+## 🌐 Live Demo
+
+👉 [Click here to view the app](https://your-app-url.com)
+
 📈 Dataset
 This dashboard uses the Gapminder dataset, which includes:
 
